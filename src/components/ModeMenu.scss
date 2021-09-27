@@ -1,0 +1,12 @@
+.mode_menu.ant-menu-horizontal {
+  line-height: 64px;
+}
+
+.ant-menu.ant-menu-dark  {
+  .mode_menu__edit.ant-menu-item-selected {
+    background-color: rgb(148, 0, 0);
+  }
+  .mode_menu__simulate.ant-menu-item-selected {
+    background-color: teal;
+  }
+}
